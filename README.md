@@ -1,1 +1,1 @@
-# ShoppingListXcode
+# Xcode Project - Shopping List
